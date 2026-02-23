@@ -1,4 +1,8 @@
-## Olá 🌸
+---
+title: Minha Página
+layout: page
+toc: false
+---
 
 Neste website compartilho textos referentes às minhas aulas.
 
